@@ -1,3 +1,2 @@
 # Simpenduk
-Aplikasi Sistem Pendataan Penduduk
-Dengan Framework CodeIgniter
+Aplikasi Sistem Pendataan Penduduk Dengan Framework CodeIgniter
