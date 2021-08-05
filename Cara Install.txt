@@ -1,0 +1,4 @@
+1. Copy file project ke dalam folder htdocs
+2. Buat Database Dengan nama simdes kemudian import file simdes.sql
+3. Setting file config.php dan database.php
+4. Username : admin Password : admin
